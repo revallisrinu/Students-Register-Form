@@ -1,0 +1,1 @@
+.active{color:orange}h1,h2{text-align:center}ul{height:40px;align-items:center;border:2px solid red;list-style:none;display:flex;justify-content:center;justify-content:space-around;background-color:pink}ul li{text-decoration:none;font-weight:700;color:#000;cursor:pointer}.underline{text-decoration:none;color:#000}#clear-btn{border:none;background-color:pink;font-weight:700}
