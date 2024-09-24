@@ -1,0 +1,39 @@
+.active{
+    color:orange;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+
+ul{
+    height:40px;
+    align-items: center;
+    border:2px solid red;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color:pink;
+    
+}
+
+ul li{
+    text-decoration: none;
+    font-weight:700;
+    color: black;
+    cursor: pointer;
+}
+
+.underline{
+    text-decoration: none;
+    color: black;
+}
+
+#clear-btn{
+    border: none;
+    background-color: pink;
+    font-weight:700;
+    
+}

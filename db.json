@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "SRINU",
+      "phone": 987654321,
+      "dob": "04/05/2002",
+      "degree": "B.TECH",
+      "stream": "ECE",
+      "percentage": "67%",
+      "yop": 2024
+    },
+    {
+      "id": "2",
+      "name": "DASHARATH",
+      "phone": 123456789,
+      "dob": "04/05/2000",
+      "degree": "B.TECH",
+      "stream": "ECE",
+      "percentage": "65%",
+      "yop": 2024
+    },
+    {
+      "id": "f630",
+      "name": "ABC",
+      "phone": 7569068640,
+      "dob": "2024-09-14",
+      "degree": "BE",
+      "stream": "ECE",
+      "percentage": "68%",
+      "yop": "2024"
+    },
+    {
+      "id": "2a31",
+      "name": "XYZ",
+      "phone": "07569068640",
+      "dob": "2024-09-18",
+      "degree": "MBA",
+      "stream": "ITI",
+      "percentage": "95%",
+      "yop": "68"
+    }
+  ]
+}
